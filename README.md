@@ -9,7 +9,7 @@
 
 -  How to reach me **amitnale.07@gmail.com**
 
--  Know about my experiences [https://drive.google.com/file/d/1CSYwPmH-_E3OU8GfKhy3nR2Wba0Kfu8n/view?usp=share_link](https://rxresu.me/amitnale017/amit-resume)
+-  Know about my experiences [View Resume](https://rxresu.me/amitnale017/amit-resume)
 
 - ⚡ Fun fact **I am not a AI**
 
