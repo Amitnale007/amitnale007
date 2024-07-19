@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amit Nale, Welcome to my github page.</h1>
+<h3 align="center">React Native Developer</h3>
+<progress id="file" max="100" value="75"> </progress>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-63/8/e9e7b/wp-content/uploads/2019/10/data-science-giphy.gif"> -->
 
-<!--
-**Amitnale007/amitnale007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  All of my projects are available at (Git Hub Itself)
+
+-  How to reach me **amitnale.07@gmail.com**
+
+-  Know about my experiences [https://drive.google.com/file/d/1CSYwPmH-_E3OU8GfKhy3nR2Wba0Kfu8n/view?usp=share_link](https://rxresu.me/amitnale017/amit-resume)
+
+- ⚡ Fun fact **I am not a AI**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/amit-nale" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="amit" height="30" width="40" /></a>
+
+</p>
